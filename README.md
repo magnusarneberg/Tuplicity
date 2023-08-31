@@ -2,7 +2,7 @@
 
 Git commit book, forks and edits. Now with pictures!
 
-# Siegfried
+# Shadows
 <img src="visuals/siegfried.png" width="550" alt="Death of Siegfried.">
 
 # Cyberpunk
