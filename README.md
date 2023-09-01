@@ -1,9 +1,9 @@
 # Tuplicity (TODO)
 
-Git commit book, forks and edits. Now with pictures!
+Git commit book, endless push- and pulles. Now with pictures!
 
-# Shadows
+# Shared Shadows
 <img src="visuals/siegfried.png" width="550" alt="Death of Siegfried.">
 
-# Future
+# Future (cyberpunk)
 <img src="visuals/cyberpunk.png" width="450" alt="Cyberpunk sword and parrying dagger.">
