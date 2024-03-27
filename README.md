@@ -1,2 +1,2 @@
 # Tuplicity (TODO)
-Virtual memory, regeneration and heuristics.
+Virtual memory, heuristics and regeneration.
