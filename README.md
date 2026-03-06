@@ -1,5 +1,5 @@
 # Tuplicity (TODO)
 Virtual memory, heuristics and regeneration.
 
-## Addresses Exhaustion
+## Addressexhaustion
 ![Demo](KarMa%205000.gif)
